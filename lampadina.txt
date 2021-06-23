@@ -1,0 +1,39 @@
+Una lampadina in soggiorno si è appena fulminata, è ora di cambiarla.
+
+Controllo che le altre lampadine funzionino e che non sia saltata la corrente.
+Se le altre funzionano
+    allora devo cambiarla.
+While (lampadina è inserita) 
+    Stacco la corrente
+Prendo la scala e la porto sotto la lampadina.
+Controllo che la scala non traballi.
+funzione salireOScendereDallaScala (salire)
+Svito la lampadina
+Vado nel ripostiglio dove tengo le lampadine di scorta.
+Se ne ho una di modello uguale
+    la cambio
+    altrimenti
+        vado al superemercato a comprarne una nuova
+Prendo la lampadina rotta con me per trovarne una uguale al superemercato
+Prendo le chiavi di casa ed esco
+Cammino fino al superemercato
+Al supermercato vado al reparto casalinghi
+While (finche le 2 lampadine non sono identiche)
+    confronto la mia lampadina con quelle del reparto
+Quando l'ho trovata cammino fino alla cassa per pagare
+Se mi sono ricordato il portafoglio 
+    pago 
+    altrimenti  devo tornare a casa a prendere il portafoglio
+Esco dal supermercato e cammino fino a casa
+salireOscendere(salire)
+Avvito la nuova lampadina
+Attacco la corrente
+Verifico che funzioni premendo l'interrutore
+Se funzionano  
+    ok
+    altrimenti  
+        tornare al supermercato
+
+Funzione per staccare e attaccare la corrente (parametro on e off)
+Funzione per accendere gli interruttori (parametro interruttore a
+cui quando richiamo la funzione attirbuisco lo specifico interruttore da accendere)
